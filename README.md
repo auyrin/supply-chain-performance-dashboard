@@ -8,3 +8,8 @@ our supply chain company is having some issues; some of their key customers are 
 - On time (OT) ->  It determines if an order is delivered as per the agreed time with the customer.
 - In full (IF) -> It determines if an order is delivered in full as per the requested quantity by the customer.
 - On time in full (OTIF) -> it determines if an order is delivered BOTH in full and On Time as per the customer order request.
+## requests from manager
+- display the  OT, IF, OTIF, VOFR, LFR percentages for each given vs our targets.
+- split these metrics for each city and customer. also display them vs our targets
+- show the VOFR and LFR for all our products. also display their sparklines.
+- show the trend of these metrics vs our targets. create a button so i can switch between metrics.
