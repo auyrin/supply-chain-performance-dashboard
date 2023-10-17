@@ -1,7 +1,7 @@
 # supply-chain-performance-dashboard
 here i create a dashboard that tracks the performance of the supply chain of an online store.
 ## problem statement
-our supply chain company is having some issues; some of their key customers are not renewing their contracts with them. they don't really know their customer satisfaction level, and would want to be able to track their performance. So management decides to deploy analytics for service level tracking.
+our supply chain company is having issues; our key customers are not renewing their contracts with us. we don't really know our customer satisfaction level, and would want to be able to track our performance. management decides to deploy analytics for service level tracking.
 ## metrics displayed
 - Volume fill rate (VOFR) -> the total quantity they are able to ship for a customer per order
 - Line fill rate (LFR) -> how many lines they shipped out of the total lines ordered.
